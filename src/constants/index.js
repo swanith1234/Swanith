@@ -441,6 +441,11 @@ export const iconPaths = [
     name: "AWS",
     path: "/assets/aws.svg",
   },
+  {
+    id: 20,
+    name: "threeJS",
+    path: "/assets/threeJS.svg",
+  },
 ];
 export const platformIcons = [
   {
