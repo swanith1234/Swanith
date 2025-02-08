@@ -446,6 +446,22 @@ export const iconPaths = [
     name: "threeJS",
     path: "/assets/threeJS.svg",
   },
+  {
+    id: 20,
+    name: "SpringBoot",
+    path: "/assets/icons8-spring-boot.svg",
+  },
+  {
+    id: 20,
+    name: "Jenkins",
+    path: "/assets/icons8-jenkins.svg",
+  },
+  {
+    id: 20,
+    name: "Kubernetes",
+    path: "/assets/icons8-kubernetes.svg",
+  },
+  
 ];
 export const platformIcons = [
   {
